@@ -3,4 +3,13 @@ let sub = (num1, num2) => { return num1 - num2 };
 let div = (num1, num2) => { return num1 / num2 };
 let mul = (num1, num2) => { return num1 * num2 };
 
+
+
+
+// switch case
+// vissa siffror ska generera något speciellt (2, 5)
+// andra ska inte göra något
+
+
+
 export {add, sub, div, mul};

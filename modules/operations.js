@@ -5,10 +5,13 @@ let mul = (num1, num2) => { return num1 * num2 };
 
 
 
-
+let counter = (count) => {
 // switch case
 // vissa siffror ska generera något speciellt (2, 5)
 // andra ska inte göra något
+
+}
+
 
 
 
